@@ -9,5 +9,4 @@ public class DsListApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DsListApplication.class, args);
 	}
-
 }
